@@ -460,6 +460,7 @@ the honeyd daemon and generate configuration files
 - Visualization
     - [HoneyMap](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map
     - [HoneyMalt](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems
+    - [Logstash] - logstash.conf file contains parsing for popular honeypots for Logstash and Kibana. 
 
 ## <a name="guides"></a>Guides
 
